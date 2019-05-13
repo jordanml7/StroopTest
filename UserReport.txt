@@ -1,0 +1,14 @@
+|---------------------------|
+|  Your Stroop Test Report  |
+|---------------------------|
+Compiled for Jordan, Test Subject #19
+
+For the Letter Locating Tests, you averaged 8.19949 seconds to find the unique letter.
+For the Button Tests, you averaged 0.88135 seconds to click on the colored button.
+For the Color Determining Tests, you averaged 1.12642 seconds to select the correct color.
+For the Keyboard Entering Tests, you averaged 0.621259 seconds to press the correct key.
+For the Tone Tests, you averaged 1.72256 seconds to click the button after the tone.
+
+In total, your reaction time is approximately 2.51022 seconds.
+The average reaction time of everyone who has taken this test is approximately 3.70043 seconds.
+Thus you were about 1.19021 seconds faster than average, nice work!
